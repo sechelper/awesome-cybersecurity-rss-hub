@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+作者: 助安社区
+官网: https://secself.com
+github: https://github.com/sechelper/awesome-cybersecurity-rss-feed
+-->
+<opml version="2.0">
+    <head>
+        <title>助安社区 | RSS feeds</title>
+        <dateCreated>Sun, 21 May 2023 04:14:22 UTC</dateCreated>
+    </head>
+    <body>
+        <outline text="Exploit">
+            <outline title="Exploit Collector" text="Exploit Collector" xmlUrl="https://exploit.kitploit.com/feeds/posts/default?alt=rss" htmlUrl="http://exploit.kitploit.com/"></outline>
+            <outline title="Exploit | CXSecurity.com" text="Exploit | CXSecurity.com" xmlUrl="https://cxsecurity.com/wlb/rss/exploit/" htmlUrl="https://cxsecurity.com/wlb/"></outline>
+            <outline title="Exploit-DB" text="Exploit-DB" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com"></outline>
+            <outline title="Files ≈ Packet Storm" text="Files ≈ Packet Storm" xmlUrl="https://rss.packetstormsecurity.com/files/" htmlUrl="https://packetstormsecurity.com/"></outline>
+            <outline title="谷歌黑客搜索语法 | CXSecurity.com" text="谷歌黑客搜索语法 | CXSecurity.com" xmlUrl="https://cxsecurity.com/wlb/rss/dorks/" htmlUrl="https://cxsecurity.com/wlb/"></outline>
+            <outline title="谷歌黑客搜索语法 | exploit-db" text="谷歌黑客搜索语法 | exploit-db" xmlUrl="https://www.exploit-db.com/rss___ghdb.xml" htmlUrl="https://www.exploit-db.com/google-hacking-database/"></outline>
+        </outline>
+        <outline text="国外-安全自媒体">
+            <outline title="Basics of Ethical Hacking | Tutorials, Tips and Tricks" text="Basics of Ethical Hacking | Tutorials, Tips and Tricks" xmlUrl="http://feeds.feedburner.com/learnhack" htmlUrl="http://www.basicsofhacking.com/"></outline>
+            <outline title="CIO" text="CIO" xmlUrl="https://www.cio.com/feed/" htmlUrl="https://www.cio.com/feed/"></outline>
+            <outline title="Cisco Blogs" text="Cisco Blogs" xmlUrl="https://feedpress.me/CiscoBlogs" htmlUrl="https://blogs.cisco.com"></outline>
+            <outline title="Dark Reading" text="Dark Reading" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com"></outline>
+            <outline title="EffectHacking - Get Latest Android Games, Apps, Tech Hacks, News, PC Games, &amp; Tools" text="EffectHacking - Get Latest Android Games, Apps, Tech Hacks, News, PC Games, &amp; Tools" xmlUrl="http://feeds.feedburner.com/EffectHacking" htmlUrl="http://www.effecthacking.com/"></outline>
+            <outline title="GBHackers | Hacker News" text="GBHackers – Latest Cyber Security News | Hacker News" xmlUrl="https://gbhackers.com/feed/" htmlUrl="http://gbhackers.com/"></outline>
+            <outline title="Help Net Security" text="Help Net Security" xmlUrl="https://www.helpnetsecurity.com/feed/" htmlUrl="https://www.helpnetsecurity.com/"></outline>
+            <outline title="Internet Security Blog – Hackology" text="Internet Security Blog – Hackology" xmlUrl="https://blog.drhack.net/feed/" htmlUrl="https://blog.drhack.net"></outline>
+            <outline title="KitPloit - PenTest &amp; Hacking Tools" text="KitPloit - PenTest &amp; Hacking Tools" xmlUrl="https://www.kitploit.com/feeds/posts/default?alt=rss" htmlUrl="http://www.kitploit.com/"></outline>
+            <outline title="KnowBe4 Security Awareness Training Blog" text="KnowBe4 Security Awareness Training Blog" xmlUrl="https://blog.knowbe4.com/rss.xml" htmlUrl="https://blog.knowbe4.com"></outline>
+            <outline title="Latest Hacking News | Cyber Security News, Hacking Tools and Penetration Testing Courses" text="Latest Hacking News | Cyber Security News, Hacking Tools and Penetration Testing Courses" xmlUrl="https://latesthackingnews.com/feed/" htmlUrl="https://latesthackingnews.com/"></outline>
+            <outline title="McAfee Blog" text="McAfee Blog" xmlUrl="https://www.mcafee.com/blogs/feed/" htmlUrl="https://www.mcafee.com/blogs/feed/"></outline>
+            <outline title="Menlo Security" text="Menlo Security" xmlUrl="https://www.menlosecurity.com/feed/" htmlUrl="https://www.menlosecurity.com/"></outline>
+            <outline title="Microsoft Security Blog" text="Microsoft Security Blog" xmlUrl="https://www.microsoft.com/en-us/security/blog/feed/" htmlUrl="https://www.microsoft.com/en-us/security/blog/"></outline>
+            <outline title="OFFICIAL HACKER" text="OFFICIAL HACKER" xmlUrl="https://www.officialhacker.com/feed/" htmlUrl="https://www.officialhacker.com/"></outline>
+            <outline title="Posts" text="Posts" xmlUrl="http://news.mlh.io/posts/feed" htmlUrl="https://news.mlh.io/posts"></outline>
+            <outline title="Schneier on Security" text="Schneier on Security" xmlUrl="https://www.schneier.com/feed/atom/" htmlUrl="https://www.schneier.com"></outline>
+            <outline title="Securelist" text="Securelist" xmlUrl="https://securelist.com/feed/" htmlUrl="https://securelist.com"></outline>
+            <outline title="Terry Cutler – The Ethical Hacker" text="Terry Cutler – The Ethical Hacker" xmlUrl="https://terrycutler.com/feed/" htmlUrl="https://terrycutler.com/"></outline>
+            <outline title="The Hacker News" text="The Hacker News" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com"></outline>
+            <outline title="Threatpost" text="Threatpost" xmlUrl="https://threatpost.com/feed/" htmlUrl="https://threatpost.com"></outline>
+            <outline title="WeLiveSecurity" text="WeLiveSecurity" xmlUrl="https://www.welivesecurity.com/feed/" htmlUrl="https://www.welivesecurity.com"></outline>
+        </outline>
+        <outline text="国外-技术博客">
+		    <outline title="MITRE ATT&amp;CK® - Medium" text="MITRE ATT&amp;CK® - Medium" xmlUrl="https://medium.com/feed/mitre-attack" htmlUrl="https://medium.com/mitre-attack?source=rss----6da19bd08fba---4"></outline>
+            <outline title="0ut3r Space" text="0ut3r Space" xmlUrl="https://0ut3r.space/atom.xml" htmlUrl="http://0ut3r.space/"></outline>
+            <outline title="Anonhack" text="Anonhack" xmlUrl="http://www.anonhack.in/feed/" htmlUrl="http://www.anonhack.in"></outline>
+            <outline title="Blog | CQURE Academy" text="Blog | CQURE Academy" xmlUrl="http://cqureacademy.com/blog/feed" htmlUrl="https://cqureacademy.com/blog"></outline>
+            <outline title="Bug Hacking" text="Bug Hacking" xmlUrl="https://bughacking.com/feed/" htmlUrl="https://bughacking.com/"></outline>
+            <outline title="Darknet – Hacking Tools, Hacker News &amp; Cyber Security" text="Darknet – Hacking Tools, Hacker News &amp; Cyber Security" xmlUrl="https://www.darknet.org.uk/feed/" htmlUrl="https://www.darknet.org.uk"></outline>
+            <outline title="Detectify Blog" text="Detectify Blog" xmlUrl="http://blog.detectify.com/feed/" htmlUrl="https://blog.detectify.com"></outline>
+            <outline title="HackerOne" text="HackerOne" xmlUrl="https://www.hackerone.com/blog.rss" htmlUrl="https://www.hackerone.com/"></outline>
+            <outline title="Hackers Arise" text="Hackers Arise" xmlUrl="https://www.hackers-arise.com/blog-feed.xml" htmlUrl="https://www.hackers-arise.com/blog"></outline>
+            <outline title="0xsp" text="0xsp" xmlUrl="https://0xsp.com/feed/" htmlUrl="https://0xsp.com"></outline>
+            <outline title="nu11secur1ty" text="nu11secur1ty" xmlUrl="https://www.nu11secur1ty.com/feeds/posts/default?alt=rss" htmlUrl="https://www.nu11secur1ty.com/"></outline>
+            <outline title="Offensive Sec Blog" text="Offensive Sec Blog" xmlUrl="https://offensivesec.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://offensivesec.blogspot.com/"></outline>
+            <outline title="Penetration Testing Lab" text="Penetration Testing Lab" xmlUrl="https://pentestlab.blog/feed/" htmlUrl="https://pentestlab.blog"></outline>
+            <outline title="Professional Hackers" text="Professional Hackers" xmlUrl="https://professionalhackers.in/feed/" htmlUrl="https://professionalhackers.in"></outline>
+            <outline title="Synack" text="Synack" xmlUrl="https://www.synack.com/feed/" htmlUrl="https://www.synack.com/"></outline>
+            <outline title="Threatninja.net" text="Threatninja.net" xmlUrl="https://threatninja.net/feed/" htmlUrl="https://threatninja.net/"></outline>
+            <outline title="美团技术团队" text="美团技术团队" xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"></outline>
+        </outline>
+        <outline text="安全自媒体">
+            <outline title="FreeBuf" text="FreeBuf" xmlUrl="https://www.freebuf.com/feed" htmlUrl="https://www.freebuf.com"></outline>
+            <outline title="SecWiki News" text="SecWiki News" xmlUrl="https://www.sec-wiki.com/news/rss" htmlUrl="http://www.sec-wiki.com/"></outline>
+            <outline title="嘶吼 RoarTalk" text="嘶吼 RoarTalk" xmlUrl="https://www.4hou.com/feed" htmlUrl="https://www.4hou.com"></outline>
+            <outline title="安全客" text="安全客" xmlUrl="https://api.anquanke.com/data/v1/rss" htmlUrl="https://www.anquanke.com"></outline>
+            <outline title="安全村" text="安全村" xmlUrl="https://www.sec-un.org/feed/" htmlUrl="https://www.sec-un.org"></outline>
+            <outline title="绿盟科技技术博客" text="绿盟科技技术博客" xmlUrl="http://blog.nsfocus.net/feed/" htmlUrl="http://blog.nsfocus.net"></outline>
+        </outline>
+        <outline text="技术博客">
+            <outline title="360 核心安全技术博客" text="360 核心安全技术博客" xmlUrl="https://blogs.360.cn/rss.html" htmlUrl="https://blogs.360.net"></outline>
+            <outline title="Bendawang&#39;s site" text="Bendawang&#39;s site" xmlUrl="http://www.bendawang.site/rss.xml" htmlUrl="https://bendawang.github.io/"></outline>
+            <outline title="HackerNews" text="HackerNews" xmlUrl="https://hackernews.cc/feed" htmlUrl="https://hackernews.cc"></outline>
+            <outline title="HackingPassion.com : root@HackingPassion.com-[~]" text="HackingPassion.com : root@HackingPassion.com-[~]" xmlUrl="https://hackingpassion.com/index.xml" htmlUrl="https://hackingpassion.com/"></outline>
+            <outline title="Hakin9 –  IT Security Magazine" text="Hakin9 –  IT Security Magazine" xmlUrl="https://hakin9.org/feed/" htmlUrl="https://hakin9.org"></outline>
+            <outline title="InfoSec Write-ups - Medium" text="InfoSec Write-ups - Medium" xmlUrl="https://infosecwriteups.com/feed" htmlUrl="https://infosecwriteups.com?source=rss----7b722bfd1b8d---4"></outline>
+            <outline title="Seebug Paper" text="Seebug Paper" xmlUrl="https://paper.seebug.org/rss/" htmlUrl="https://paper.seebug.org/"></outline>
+            <outline title="先知安全技术社区" text="先知安全技术社区" xmlUrl="https://xz.aliyun.com/feed" htmlUrl="https://xz.aliyun.com/forum/"></outline>
+            <outline title="腾讯安全玄武实验室" text="腾讯安全玄武实验室" xmlUrl="https://xlab.tencent.com/cn/atom.xml" htmlUrl="https://xlab.tencent.com/cn/"></outline>
+            <outline title="跳跳糖" text="跳跳糖" xmlUrl="https://tttang.com/rss.xml" htmlUrl="https://tttang.com"></outline>
+        </outline>
+        <outline text="漏洞披露">
+		    <outline title="华为安全通告" text="华为安全通告" xmlUrl="https://www.huawei.com/cn/rss-feeds/psirt/rss" htmlUrl="https://www.huawei.com/cn/rss-feeds/psirt/rss"></outline>
+            <outline title="CVEMAP | CXSecurity.com" text="CVEMAP | CXSecurity.com" xmlUrl="https://cxsecurity.com/wlb/rss/vulnerabilities/" htmlUrl="https://cxsecurity.com/wlb/"></outline>
+            <outline title="Full Disclosure" text="Full Disclosure" xmlUrl="https://seclists.org/rss/fulldisclosure.rss" htmlUrl="https://seclists.org/#fulldisclosure"></outline>
+            <outline title="Latest security vulnerabilities" text="Latest security vulnerabilities" xmlUrl="https://www.cvedetails.com/vulnerability-feed.php" htmlUrl="http://www.cvedetails.com"></outline>
+         </outline>
+        <outline text="讨论">
+            <outline title="Comments for Darknet – Hacking Tools, Hacker News &amp; Cyber Security" text="Comments for Darknet – Hacking Tools, Hacker News &amp; Cyber Security" xmlUrl="https://www.darknet.org.uk/comments/feed/" htmlUrl="https://www.darknet.org.uk"></outline>
+            <outline title="Comments for GBHackers – Latest Cyber Security News | Hacker News" text="Comments for GBHackers – Latest Cyber Security News | Hacker News" xmlUrl="https://gbhackers.com/comments/feed/" htmlUrl="http://gbhackers.com/"></outline>
+            <outline title="Comments for Hackercool Magazine" text="Comments for Hackercool Magazine" xmlUrl="https://www.hackercoolmagazine.com/comments/feed/" htmlUrl="https://www.hackercoolmagazine.com/"></outline>
+            <outline title="Comments for OFFICIAL HACKER" text="Comments for OFFICIAL HACKER" xmlUrl="https://www.officialhacker.com/comments/feed/" htmlUrl="https://www.officialhacker.com/"></outline>
+            <outline title="Comments for Penetration Testing Lab" text="Comments for Penetration Testing Lab" xmlUrl="https://pentestlab.blog/comments/feed/" htmlUrl="https://pentestlab.blog"></outline>
+            <outline title=" Security Content &amp; Discussion | reddit" text=" Security Content &amp; Discussion | reddit" xmlUrl="https://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/"></outline>
+        </outline>
+        <outline text="靶场">
+            <outline title="HTB Blog" text="HTB Blog" xmlUrl="https://www.hackthebox.com/rss/blog/all" htmlUrl="https://www.hackthebox.com/rss/blog/all"></outline>
+        </outline>
+    </body>
+</opml>
