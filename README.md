@@ -1,2 +1,2 @@
-# awesome-cybersecurity-rss
-Awesome cybersecurity learning rss subscribe 
+# awesome-cybersecurity-rss-feed
+Awesome cybersecurity learning rss feed 
