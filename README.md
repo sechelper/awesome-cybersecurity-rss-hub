@@ -24,7 +24,7 @@
 
 ## 🤔如何使用
 
-⭐老规矩`三连+关注`，使用方法 👉 [B站视频占坑，录制完成补上](https://space.bilibili.com/1233892570)
+⭐老规矩`三连+关注`，使用方法 👉 [订阅100+安全干货网站，学习不怕没资料](https://www.bilibili.com/video/BV18k4y1s7Ag)
 
 坤哥将文章划分成几个大的分类，随着不断更新会调整，及时关注b站动态，。
 
@@ -104,7 +104,7 @@ volumes:
 
 📓其它资料领取和交流，点击下方链接：
 
-- [b站，点赞、收藏、投币三连支持坤哥继续创作](https://space.bilibili.com/1233892570)每周三、周五晚8点准时直播，心里默念三遍，不要错过。
+- [b站，点赞、收藏、投币三连支持坤哥继续创作](https://www.bilibili.com/video/BV18k4y1s7Ag)每周三、周五晚8点准时直播，心里默念三遍，不要错过。
 - [关注公众号](https://paper.static.secself.com/img/qrcode/mp_qrcode2.png)
 - [交流群01](https://paper.static.secself.com/img/qrcode/qrcode-group-01.png)
 - [交流群02](https://paper.static.secself.com/img/qrcode/qrcode-group-01.png)
