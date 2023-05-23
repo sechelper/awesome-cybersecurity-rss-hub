@@ -72,12 +72,17 @@ github: https://github.com/sechelper/awesome-cybersecurity-rss-feed
         <outline text="技术博客">
             <outline title="360 核心安全技术博客" text="360 核心安全技术博客" xmlUrl="https://blogs.360.cn/rss.html" htmlUrl="https://blogs.360.net"></outline>
             <outline title="Bendawang&#39;s site" text="Bendawang&#39;s site" xmlUrl="http://www.bendawang.site/rss.xml" htmlUrl="https://bendawang.github.io/"></outline>
+            <outline title="Driver Tom&#39;s Blog" text="Driver Tom&#39;s Blog" xmlUrl="https://drivertom.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://drivertom.blogspot.com/"></outline>
             <outline title="HackerNews" text="HackerNews" xmlUrl="https://hackernews.cc/feed" htmlUrl="https://hackernews.cc"></outline>
             <outline title="HackingPassion.com : root@HackingPassion.com-[~]" text="HackingPassion.com : root@HackingPassion.com-[~]" xmlUrl="https://hackingpassion.com/index.xml" htmlUrl="https://hackingpassion.com/"></outline>
             <outline title="Hakin9 –  IT Security Magazine" text="Hakin9 –  IT Security Magazine" xmlUrl="https://hakin9.org/feed/" htmlUrl="https://hakin9.org"></outline>
             <outline title="InfoSec Write-ups - Medium" text="InfoSec Write-ups - Medium" xmlUrl="https://infosecwriteups.com/feed" htmlUrl="https://infosecwriteups.com?source=rss----7b722bfd1b8d---4"></outline>
+            <outline title="LoRexxar&#39;s Blog" text="LoRexxar&#39;s Blog" xmlUrl="https://lorexxar.cn/atom.xml" htmlUrl="https://lorexxar.cn/"></outline>
             <outline title="Seebug Paper" text="Seebug Paper" xmlUrl="https://paper.seebug.org/rss/" htmlUrl="https://paper.seebug.org/"></outline>
+            <outline title="TRY博客" text="TRY博客" xmlUrl="https://www.nctry.com/feed" htmlUrl="https://www.nctry.com"></outline>
             <outline title="先知安全技术社区" text="先知安全技术社区" xmlUrl="https://xz.aliyun.com/feed" htmlUrl="https://xz.aliyun.com/forum/"></outline>
+            <outline title="明天的乌云" text="明天的乌云" xmlUrl="https://blog.xlab.app/atom.xml" htmlUrl="https://blog.xlab.app/"></outline>
+            <outline title="离别歌" text="离别歌" xmlUrl="https://www.leavesongs.com/feed/" htmlUrl="https://www.leavesongs.com"></outline>
             <outline title="腾讯安全玄武实验室" text="腾讯安全玄武实验室" xmlUrl="https://xlab.tencent.com/cn/atom.xml" htmlUrl="https://xlab.tencent.com/cn/"></outline>
             <outline title="跳跳糖" text="跳跳糖" xmlUrl="https://tttang.com/rss.xml" htmlUrl="https://tttang.com"></outline>
         </outline>
