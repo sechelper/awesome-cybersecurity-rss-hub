@@ -112,5 +112,5 @@ volumes:
 
 ### 💰守护坤哥发际线
 
-<center> <img style="height 400px; width: 400px;" src="https://paper.static.secself.com/img/qrcode/appreciatio-%20code2.jpg"></center>
+<center> <img style="height 400px; width: 400px;" src="https://paper-static.secself.com/img/qrcode/appreciatio-%20code2.jpg"></center>
 
