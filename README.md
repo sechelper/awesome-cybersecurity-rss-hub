@@ -94,5 +94,3 @@ volumes:
 - [交流群02](https://paper-static.secself.com/img/qrcode/qrcode-group-01.png)
 - [交流群03](https://paper-static.secself.com/img/qrcode/qrcode-group-01.png)
 
-<center> <img style="height 400px; width: 400px;" src="https://paper-static.secself.com/img/qrcode/appreciatio-%20code2.jpg"></center>
-
