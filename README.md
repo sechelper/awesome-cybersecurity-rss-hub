@@ -83,14 +83,3 @@ volumes:
 | 苹果手机 | [Reading](https://apps.apple.com/cn/app/reading-for-rss/id1611939852) |
 |   Mac    | [Fluent Reader](https://github.com/yang991178/fluent-reader) |
 | Windows  | [Fluent Reader](https://github.com/yang991178/fluent-reader) |
-
-## 💘支持一下
-
-📓其它资料领取和交流，点击下方链接：
-
-- [b站，点赞、收藏、投币三连支持坤哥继续创作](https://www.bilibili.com/video/BV18k4y1s7Ag)每周三、周五晚8点准时直播，心里默念三遍，不要错过。
-- [关注公众号](https://paper.static.secself.com/img/qrcode/mp_qrcode2.png)
-- [交流群01](https://paper-static.secself.com/img/qrcode/qrcode-group-01.png)
-- [交流群02](https://paper-static.secself.com/img/qrcode/qrcode-group-01.png)
-- [交流群03](https://paper-static.secself.com/img/qrcode/qrcode-group-01.png)
-
