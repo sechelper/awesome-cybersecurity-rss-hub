@@ -84,33 +84,15 @@ volumes:
 |   Mac    | [Fluent Reader](https://github.com/yang991178/fluent-reader) |
 | Windows  | [Fluent Reader](https://github.com/yang991178/fluent-reader) |
 
-## 💰 付费订阅
-
-本项目完全**开源免费**，任何人都可以订阅分享项目内的网站和文章，标明出处即可。
-
-订阅付费是坤哥搭建的服务器，不想自己搭建`RSS`订阅服务服务器的小伙伴，可以选择付费订阅。
-
-不提供任何安全文章技术解答，只是保障小伙伴们正常使用此服务器订阅知识。
-
-👍坤哥也会对付费用户优化文章阅读列表。付费标准（人数上升会调高，维护成本会增加）：
-
-- **试用账户密码私聊坤哥申请，半月试用期**
-- **5元/月**
-- **50元/年**
-
-发送`RSS`到公众号【助安社区】获取付款码，付款后找坤哥创建账户。
-
 ## 💘支持一下
 
 📓其它资料领取和交流，点击下方链接：
 
 - [b站，点赞、收藏、投币三连支持坤哥继续创作](https://www.bilibili.com/video/BV18k4y1s7Ag)每周三、周五晚8点准时直播，心里默念三遍，不要错过。
 - [关注公众号](https://paper.static.secself.com/img/qrcode/mp_qrcode2.png)
-- [交流群01](https://paper.static.secself.com/img/qrcode/qrcode-group-01.png)
-- [交流群02](https://paper.static.secself.com/img/qrcode/qrcode-group-01.png)
-- [交流群03](https://paper.static.secself.com/img/qrcode/qrcode-group-01.png)
-
-### 💰守护坤哥发际线
+- [交流群01](https://paper-static.secself.com/img/qrcode/qrcode-group-01.png)
+- [交流群02](https://paper-static.secself.com/img/qrcode/qrcode-group-01.png)
+- [交流群03](https://paper-static.secself.com/img/qrcode/qrcode-group-01.png)
 
 <center> <img style="height 400px; width: 400px;" src="https://paper-static.secself.com/img/qrcode/appreciatio-%20code2.jpg"></center>
 
